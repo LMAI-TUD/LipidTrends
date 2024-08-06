@@ -1,0 +1,15 @@
+jupyter==1.0.0
+jupyterlab==4.2.2
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+natsort==8.4.0
+nbclient==0.10.0
+nbconvert==7.16.4
+nbformat==5.10.4
+numpy==1.26.4
+openpyxl==3.1.4
+pandas==2.2.2
+plotly==5.22.0
+scikit-learn==1.5.0
+scipy==1.13.1
+umap-learn==0.5.6
